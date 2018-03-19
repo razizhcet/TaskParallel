@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MultiThreading</name>
+    </assembly>
+    <members>
+        <member name="T:MultiThreading.TaskParallel">
+            <summary>
+            class to show two method working parallely
+            T:MultiThreading.TaskParallel
+            </summary>
+        </member>
+        <member name="F:MultiThreading.TaskParallel.log">
+            <summary>
+            statement for using functions of log4net
+            F:MultiThreading.TaskParallel.log
+            </summary>
+        </member>
+        <member name="M:MultiThreading.TaskParallel.printMessage">
+            <summary>
+            printMessage() method to perform 1st task task
+            M:MultiThreading.TaskParallel.printMessage()
+            </summary>
+            <returns>return type is void.</returns>
+        </member>
+        <member name="M:MultiThreading.TaskParallel.threadName">
+            <summary>
+            threadName() method to perform 2nd task task
+            M:MultiThreading.TaskParallel.threadName()
+            </summary>
+            <returns>return type is void.</returns>
+        </member>
+        <member name="M:MultiThreading.TaskParallel.Main(System.String[])">
+            <summary>
+            main method for calling two tasks parallely
+            M:MultiThreading.TaskParallel.Main(System.String[])
+            </summary>
+            <param name="args">string array type parameter.</param>
+            <returns>return type is void.</returns>
+        </member>
+    </members>
+</doc>

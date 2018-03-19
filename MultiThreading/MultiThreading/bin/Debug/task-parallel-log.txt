@@ -1,0 +1,2 @@
+2018-03-19 19:13:48,049 [main thread] INFO MultiThreading.TaskParallel - thread name is : main thread
+2018-03-19 19:13:49,129 [11] INFO MultiThreading.TaskParallel - Hello world
